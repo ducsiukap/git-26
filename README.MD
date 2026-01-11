@@ -13,7 +13,8 @@
 **[1. Overview](https://github.com/ducsiukap/git-26/blob/main/overview.md)  
 [2. Create snapshots](https://github.com/ducsiukap/git-26/blob/main/creating_snapshots.md)  
 [3. Collaboration](https://github.com/ducsiukap/git-26/blob/main/collaboration.md)  
-[4. Operations on commit history](https://github.com/ducsiukap/git-26/blob/main/commit_history.md)**
+[4. Operations on commit history](https://github.com/ducsiukap/git-26/blob/main/commit_history.md)  
+[5. Markdown decoration (README.MD)](https://github.com/ducsiukap/git-26/blob/main/markdown_decorations.md)**
 
 ---
 
